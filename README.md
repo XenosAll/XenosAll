@@ -15,7 +15,7 @@
 
 **[petsql](https://github.com/XenosAll/petsql)**  
 Расчёт Daily Active Users + running maximum DAU и отклонение от максимума.
-**[python-pandas](https://github.com/XenosAll/python-pandas)
+**[python-pandas](https://github.com/XenosAll/python-pandas)**
 Проект рассчитывает ежедневные продуктовые метрики (DAU, покупатели, выручка, конверсия) из таблиц пользователей, входов и заказов, выравнивает данные по календарю и добавляет производные показатели (динамика, отклонение от максимума, конверсия с защитой от деления на ноль).»
 
 ### Сейчас в работе
